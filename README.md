@@ -1,6 +1,8 @@
 # 💫About Me :
 🌱 I’m currently learning Vue, TailwindCSS
+
 📝 I regularly write articles on kadhirr.github.io/blog
+
 💬 Ask me about React, Javascript, web exploitation
 
 ## 🌐Socials
