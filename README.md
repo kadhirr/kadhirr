@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 I’m currently learning Vue, TailwindCSS
+🌱 I’m currently learning Svelte, TailwindCSS
 
 📝 I regularly write articles on https://blog.0xapollo.me
 
