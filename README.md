@@ -1,7 +1,7 @@
 # 💫About Me :
 🌱 I’m currently learning Svelte, TailwindCSS
 
-📝 I regularly write articles on https://blog.0xapollo.me
+📝 I am sharing my experiences at  https://kadhir.dev
 
 💬 Ask me about React, Javascript, web exploitation
 
